@@ -10,4 +10,4 @@ title: Other Pages
 
 <a href="https://www.leisurelyllama.com">https://www.leisurelyllama.com</a>
 <br>
-(https://www.leisurelyllama.com)
+https://www.leisurelyllama.com
